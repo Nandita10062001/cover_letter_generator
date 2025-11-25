@@ -9,7 +9,7 @@
 
 **Generate personalized cover letters in seconds using AI**
 
-[Demo](#demo) • [Features](#features) • [Installation](#installation) • [Usage](#usage)
+[Demo](#-demo) • [Features](#-features) • [Installation](#-getting-started) • [Usage](#-usage)
 
 </div>
 
@@ -26,7 +26,7 @@ An automated tool that generates personalized cover letters by combining your re
 
 ---
 
-## 🎬 Demo
+### 🎬 Demo
 
 ### Main Interface
 ![Application Interface](./screenshots/demo-main.png)
@@ -36,7 +36,7 @@ An automated tool that generates personalized cover letters by combining your re
 
 ---
 
-## ✨ Features
+### ✨ Features
 
 - 📄 **PDF Resume Upload** - Upload your resume (up to 200MB)
 - 🔗 **URL Scraping** - Paste job URLs from LinkedIn, Indeed, Naukri, etc.
@@ -89,7 +89,7 @@ An automated tool that generates personalized cover letters by combining your re
 
 ---
 
-## 💻 Usage
+### 💻 Usage
 
 ### How to Use
 
@@ -122,9 +122,9 @@ cover_letter_generator/
 ├── .env                   # API keys (not in repo)
 ├── .gitignore
 ├── README.md
-├── utils/
+├── src/
 │   ├── scraper.py         # Firecrawl integration
-│   └── generator.py       # Gemini AI integration
+│   └── core.py       # Gemini AI integration
 └── screenshots/           # Demo images
     ├── demo-main.png
     └── demo-output.png
@@ -199,3 +199,4 @@ Project Link: [https://github.com/Nandita10062001/cover_letter_generator](https:
 ⭐ Star this repo if you found it helpful!
 
 </div>
+
