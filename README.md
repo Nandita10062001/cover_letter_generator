@@ -29,10 +29,10 @@ An automated tool that generates personalized cover letters by combining your re
 ### 🎬 Demo
 
 ### Main Interface
-![Application Interface](./screenshots/demo-main.png)
-
+![Application Interface](./screenshots/demo1.png)
+![Application Interface](./screenshots/demo2.png)
 ### Generated Cover Letter
-![Cover Letter Output](./screenshots/demo-output.png)
+![Cover Letter Output](./screenshots/demo3.png)
 
 ---
 
@@ -199,4 +199,5 @@ Project Link: [https://github.com/Nandita10062001/cover_letter_generator](https:
 ⭐ Star this repo if you found it helpful!
 
 </div>
+
 
